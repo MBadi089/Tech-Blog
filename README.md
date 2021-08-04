@@ -1,9 +1,9 @@
-#Tech Blog
+# Tech Blog
 
-##Description
+## Description
 Tech blog that uses the MVC standards. User is able to sign up, create posts, manage comments, and see all posts made.
 
-##NPM Packages Used
+## NPM Packages Used
 * Unordered item Express-Handlebars
 * Unordered item MySQL2
 * Unordered item Sequelize
