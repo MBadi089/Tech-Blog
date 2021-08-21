@@ -3,6 +3,10 @@
 ## Description
 Tech blog that uses the MVC standards. User is able to sign up, create posts, manage comments, and see all posts made.
 
+##App Image
+![Screenshot (106)](https://user-images.githubusercontent.com/79673757/130336039-c44f496a-2f5f-4a1f-932c-50f39b497d86.png)
+
+
 ## NPM Packages Used
 * Express-Handlebars
 * MySQL2
