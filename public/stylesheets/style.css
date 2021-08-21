@@ -1,20 +1,22 @@
 * {
     box-sizing: border-box;
   }
-  
+
   body, html {
     height: 100%;
     padding: 0;
     margin: 0;
     font-family: sans-serif;
-    color: #333;
+    color: white;
+    background-image: url("https://res-3.cloudinary.com/fieldfisher/image/upload/c_lfill,g_auto/f_auto,q_auto/v1/sectors/technology/tech_neoncircuitboard_857021704_medium_lc5h05"); 
   }
   
   a {
     text-decoration: none;
-    color: #225ca3;
+    color: white;
     font-weight: bold;
     transition: color .1s;
+    font-size: 25px;
   }
   
   a:hover {
@@ -22,7 +24,7 @@
   }
   
   button {
-    background-color: #225ca3;
+    background-color: purple;
     border: 0;
     padding: 1%;
     color: white;
@@ -75,15 +77,15 @@
   }
   
   header {
-    border-bottom: 1px solid #ccc;
+    border-bottom: 4px solid #ccc;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 1%;
+    padding: 0 1%;  
   }
   
   header h1 {
-    font-size: 1em;
+    font-size: 25px;/*1em;*/
   }
   
   main {
@@ -97,7 +99,7 @@
     padding: 0;
     cursor: pointer;
     text-decoration: none;
-    color: #225ca3;
+    color: white;
     font-size: 100%;
     font-weight: bold;
     transition: color .1s;
@@ -175,4 +177,5 @@
     justify-content: center;
     padding: 1%;
     font-size: 110%;
+    color: white;
   }
