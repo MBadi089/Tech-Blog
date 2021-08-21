@@ -3,6 +3,12 @@
 ## Description
 Tech blog that uses the MVC standards. User is able to sign up, create posts, manage comments, and see all posts made.
 
+## App Image
+![Screenshot (106)](https://user-images.githubusercontent.com/79673757/130336039-c44f496a-2f5f-4a1f-932c-50f39b497d86.png)
+
+## Run The App
+Node Server.js
+
 ## NPM Packages Used
 * Express-Handlebars
 * MySQL2
@@ -51,3 +57,8 @@ WHEN I click on the logout option in the navigation
 THEN I am signed out of the site
 WHEN I am idle on the site for more than a set time
 THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
+
+## Deployed Apps
+### Github
+https://mbadi089.github.io/Tech-Blog/
+### Heroku
