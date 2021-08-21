@@ -37,3 +37,5 @@ app.use(require('./controllers/'));
 sequelize.sync({ force: false }).then(() => {
   app.listen(PORT, () => console.log('Now listening'));
 });
+
+//adding a comment to see if whats going on with heroku push
