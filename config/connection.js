@@ -12,3 +12,9 @@ const sequelize = process.env.JAWSDB_URL
     });
 
 module.exports = sequelize;
+
+// host: 'localhost',
+// // Your MySQL username,
+// user: 'root',
+// // Your MySQL password
+// password: 'DHRRBadi1823',
