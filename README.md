@@ -4,13 +4,13 @@
 Tech blog that uses the MVC standards. User is able to sign up, create posts, manage comments, and see all posts made.
 
 ## NPM Packages Used
-* Unordered item Express-Handlebars
-* Unordered item MySQL2
-* Unordered item Sequelize
-* Unordered item dotenv
-* Unordered item bcrypt
-* Unordered item express-session
-* Unordered item connect-session-sequelize
+* Express-Handlebars
+* MySQL2
+* Sequelize
+* dotenv
+* bcrypt
+* express-session
+* connect-session-sequelize
 
 ## User Story
 AS A developer who writes about tech
