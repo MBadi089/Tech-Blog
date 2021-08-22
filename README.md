@@ -6,6 +6,9 @@ Tech blog that uses the MVC standards. User is able to sign up, create posts, ma
 ## App Image
 ![Screenshot (106)](https://user-images.githubusercontent.com/79673757/130336039-c44f496a-2f5f-4a1f-932c-50f39b497d86.png)
 
+## App Demo
+https://drive.google.com/file/d/1LCEFgnMiX2mUTGAXOaDhu9XtR_jfjeA5/view
+
 ## Run The App
 Node Server.js
 
@@ -62,3 +65,4 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 ### Github
 https://mbadi089.github.io/Tech-Blog/
 ### Heroku
+https://dashboard.heroku.com/apps/techblogsql
