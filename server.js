@@ -38,4 +38,4 @@ sequelize.sync({ force: false }).then(() => {
   app.listen(PORT, () => console.log('Now listening'));
 });
 
-//adding a comment to see if whats going on with heroku push AGAIN
+//adding a comment to see if whats going on with heroku push for the 3rd time
